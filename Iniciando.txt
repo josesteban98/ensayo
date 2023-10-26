@@ -1,1 +1,2 @@
-Iniciando en GitHub y colonando luego en mi PC
+Nueva linea
+Este es mi archivo de ensayo
